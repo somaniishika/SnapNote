@@ -1,1 +1,1 @@
-# SnapNote
+# Note-Taker
